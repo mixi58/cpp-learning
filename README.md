@@ -1,6 +1,6 @@
 # cpp-task-manager
 
-[![CI](https://github.com/mixi58/cpp-task-manager/actions/workflows/ci.yml/badge.svg)](https://github.com/mixi58/cpp-task-manager/actions/workflows/ci.yml)
+[![CI](https://github.com/mixi58/cpp-learning/actions/workflows/ci.yml/badge.svg)](https://github.com/mixi58/cpp-learning/actions/workflows/ci.yml)
 
 An interactive command-line task manager written in modern C++17.
 Tasks have a title, priority and optional due date, and are saved to a plain text file between runs.
