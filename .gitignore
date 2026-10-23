@@ -1,0 +1,15 @@
+build/
+build-*/
+out/
+cmake-build-*/
+.vs/
+.vscode/
+.idea/
+*.user
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+tasks.tsv
+tasks.tsv.tmp
